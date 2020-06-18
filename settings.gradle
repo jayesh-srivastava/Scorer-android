@@ -1,2 +1,2 @@
-rootProject.name='ScoreKeeper'
+rootProject.name='Scorekeeper'
 include ':app'
