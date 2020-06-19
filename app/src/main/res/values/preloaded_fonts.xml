@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
-        <item>@font/</item>
-        <item>@font/allerta_stencil</item>
-        <item>@font/autour_one</item>
-        <item>@font/concert_one</item>
         <item>@font/lato</item>
-        <item>@font/lato_thin</item>
     </array>
 </resources>
