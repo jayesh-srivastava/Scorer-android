@@ -14,4 +14,4 @@ above.
 To run the application in a RealWorld Android Device - Enable Developers Options in your Device(Click on Build number several times), followed by enabling USB Debugging. Connect your system to your device via an USB. In Android Studio, choose the target device as your device's name in the available devices dialog and click on run.
 
 
-<img src="/assests/device-2020-06-21-015235.png" width="33%">&ensp; <img src="assests/device-2020-06-21-015331.png" width="33%">&ensp; <img src="assests/device-2020-06-21-015420.png" width="33%">&ensp;
+<img src="/assests/device-2020-06-21-015235.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015331.png" width="32%">&ensp; <img src="assests/device-2020-06-21-015420.png" width="32%">&ensp;
