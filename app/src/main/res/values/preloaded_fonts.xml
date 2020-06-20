@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
+        <item>@font/allerta_stencil</item>
         <item>@font/lato</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_alternates</item>
+        <item>@font/poppins</item>
+        <item>@font/raleway</item>
+        <item>@font/raleway_extrabold</item>
+        <item>@font/raleway_medium</item>
+        <item>@font/roboto_mono</item>
+        <item>@font/ubuntu</item>
+        <item>@font/ubuntu_bold</item>
+        <item>@font/ubuntu_medium</item>
     </array>
 </resources>

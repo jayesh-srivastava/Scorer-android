@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Scorer</string>
     <string name="splash_developed">by Jayesh Srivastava</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="scoreA">0</string>
+    <string name="scoreB">0</string>
+    <string name="threepoints">+3 points</string>
+    <string name="onepoint">+1  point</string>
+    <string name="fivepoints">+5 points</string>
+    <string name="negativeone">-1  point</string>
+    <string name="negativetwo">-2 points</string>
+    <string name="negativethree">-3 points</string>
+    <string name="reset">Reset the ScoreBoard</string>
 </resources>
