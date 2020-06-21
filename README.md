@@ -14,7 +14,7 @@ above.
 To run the application in a RealWorld Android Device - Enable Developers Options in your Device(Click on Build number several times), followed by enabling USB Debugging. Connect your system to your device via an USB. In Android Studio, choose the target device as your device's name in the available devices dialog and click on run.
 
 ## How to directly install the app in your android device?
-* [app-debug.apk](https://github.com/jayesh-srivastava/Scorer-android/blob/master/apk%20file/app-debug.apk)
+* [app-debug.apk](https://github.com/jayesh-srivastava/Scorer-android/blob/master/apk%20file/app-debug.apk)/
 Open github from your android device, search for my github profile 'jayesh-srivastava' in the all github and open the Scorer-android repository. Scroll down to the readme file and click on the above link and click on 'view raw'. The app will be downloaded in your android device.
 
 
