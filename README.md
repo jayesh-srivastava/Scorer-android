@@ -18,7 +18,7 @@ To run the application in a RealWorld Android Device - Enable Developers Options
 Open github from your android device, search for my github profile 'jayesh-srivastava' in the all github and open the Scorer-android repository. Scroll down to the readme file and click on the above link and click on 'view raw'. The app will be downloaded in your android device.
 
 
-Developed by * [@jayesh-srivastava](https://github.com/jayesh-srivastava)
+Developed by  [@jayesh-srivastava](https://github.com/jayesh-srivastava)
 
 
 
